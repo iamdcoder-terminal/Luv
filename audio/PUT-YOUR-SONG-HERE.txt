@@ -1,0 +1,2 @@
+Drop your song in this folder and name it:  our-song.mp3
+(Or change the path in config.js -> songPath)
